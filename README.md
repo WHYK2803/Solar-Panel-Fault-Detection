@@ -3,6 +3,7 @@ Overview
 The project involves creating a sophisticated website that utilizes machine learning to offer data analysis and prediction services. The focus is on making the user experience seamless and intuitive, enabling even those without a technical background to leverage advanced data processing and machine learning techniques.
 
 Key Features
+
 User-Centric Design:
 Ease of Use: The website is designed with the end-user in mind, ensuring that the interface is intuitive and easy to navigate. This approach minimizes the learning curve for users, allowing them to quickly start using the platform.
 Seamless Data Input: Users can effortlessly input their data into the website. This could involve uploading files, entering data manually, or integrating with external data sources.
