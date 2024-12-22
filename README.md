@@ -1,4 +1,4 @@
-# Solar-Panel-Fault-Detection
+# Machine Learning Web Application
 Overview
 The project involves creating a sophisticated website that utilizes machine learning to offer data analysis and prediction services. The focus is on making the user experience seamless and intuitive, enabling even those without a technical background to leverage advanced data processing and machine learning techniques.
 
